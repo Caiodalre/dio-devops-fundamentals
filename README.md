@@ -93,8 +93,4 @@ Caio Dal Ré
 
 Projeto desenvolvido como parte da Formação DevOps Fundamentals da DIO.
 
-
-Depois clique em:
-
 ```text
-Commit changes
