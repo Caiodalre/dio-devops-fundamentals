@@ -92,5 +92,3 @@ Autor
 Caio Dal Ré
 
 Projeto desenvolvido como parte da Formação DevOps Fundamentals da DIO.
-
-```text
